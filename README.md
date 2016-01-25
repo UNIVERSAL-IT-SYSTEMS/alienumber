@@ -2,7 +2,7 @@
 
 A long time ago in a galaxy far, far away.... aliens where using alienumbers.
 
-Only first 15 alienumbers converted into human numbers.
+We know how to convert first 15 alienumbers into human numbers.
 
 ![alienumber](https://rawgit.com/drom/alienumber/master/alienumber.svg)
 
